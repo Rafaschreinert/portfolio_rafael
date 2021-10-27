@@ -39,3 +39,9 @@ O tema dos projetos são escolhidos de acordo com o meu interesse, com áreas qu
     [**Supermarket sales**](https://www.kaggle.com/aungpyaeap/supermarket-sales)
     
     - [Acesso ao projeto](https://github.com/Rafaschreinert/portfolio_rafael/tree/main/sales%20project)
+
+---
+
+- Human Resource Analytics App 
+
+    - [Acesso ao projeto](https://github.com/Rafaschreinert/portfolio_rafael/tree/main/HR%20App)
