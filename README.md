@@ -16,7 +16,7 @@ Este ano resolvi repensar minha carreira. Optei por parar um tempo, melhorar min
 
 **LINKEDIN** Link:
 
-[Rafael Schreinert - Porto Alegre, Rio Grande do Sul, Brazil | Professional Profile | LinkedIn](https://www.linkedin.com/in/rafael-schreinert-b1a951163/)
+[Rafael Schreinert - Porto Alegre, Rio Grande do Sul, Brazil | Professional Profile | LinkedIn](https://www.linkedin.com/in/rafael-schreinert/)
 
 **INSTAGRAM** Link: 
 
