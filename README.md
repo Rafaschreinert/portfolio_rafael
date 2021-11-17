@@ -45,3 +45,9 @@ O tema dos projetos são escolhidos de acordo com o meu interesse, com áreas qu
 - Human Resource Analytics App 
 
     - [Acesso ao projeto](https://github.com/Rafaschreinert/portfolio_rafael/tree/main/HR%20App)
+
+---
+
+- E-Commerce Project
+
+    - [Acesso ao projeto](https://github.com/Rafaschreinert/portfolio_rafael/tree/main/E_Commerce)
